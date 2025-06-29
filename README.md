@@ -21,10 +21,7 @@
 ### About Me 📄
 Hello outlander, my name is **iqbal alyansyah**, a passionate and ambitious junior **fullstack developer** with a fervent dedication to the world of **Web Development**. Currently, I am a student at the esteemed **Universitas Bina Sarana Informatika**, where I'm in the midst of my exciting journey through the sixth semester of my **system Information** program. With the fire of ambition burning brightly in my heart, I venture forth into this mystical domain, where code weaves the **fabric of reality**, and websites are the portals to new adventures. The arcane arts of programming are my sword and shield, and I'm always ready to engage in battle with the most intricate challenges that the **digital wilderness** throws my way 🗺️⚔️🔥.
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app/?username=iqbaalynsyh234&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+[![superXdev Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=iqbaalynsyh234&theme=ayu-mirage&layout=compact)](https://github.com/iqbaalynsyh234/github-readme-stats)
 
 ### Tech Stack 🔥
 <h3 align="left">Languages and Tools:</h3>

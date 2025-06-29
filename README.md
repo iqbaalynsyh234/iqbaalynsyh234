@@ -15,7 +15,7 @@
 ### highlight 🔦
 * 😎 My name is **iqbal Alyansyah**
 * 🌱 I’m currently learning Next JS and Reactjs
-* 👨‍💻 My portofolio avalible at: https://iqbaalynsyah.id
+* 👨‍💻 My portofolio avalible at: https://iqbal-porto-v2.vercel.app/
 * 📫 How to reach me iqbalalyansyah3@gmail.com
 
 ### About Me 📄

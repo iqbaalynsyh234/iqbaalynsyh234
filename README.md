@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/github/followers/iqbaalynsyh234?label=Follow&style=social" />
   </a>
   <a href="https://www.linkedin.com/in/iqbal-alyansyah-0a9236226/">
-    <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Jaiswal-blue?logo=linkedin&style=flat-square" />
+    <img src="https://img.shields.io/badge/LinkedIn/iqbal-alyansyah-blue?logo=linkedin&style=flat-square" />
   </a>
 </p>
 

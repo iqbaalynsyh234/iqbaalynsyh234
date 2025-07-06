@@ -1,8 +1,8 @@
 <h1 align="center"> Hi <img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h1571l0uucg205k05egri.gif" width="32">, I'm ☑ Iqbal Alyansyah!</a></img></h1>
 
-![iqbalalynsyh234](https://cardivo.vercel.app/api?name=Iqbal%20Alyansyah&description=a.k.a.%20iqbalalynsyh234%20|%20Indonesian%20Developers&image=https://avatars.githubusercontent.com/u/33013375?v=4&backgroundColor=%23ecf0f1)
+![iqbalalynsyh234](https://cardivo.vercel.app/api?name=Iqbal%20Alyansyah&description=%20iqbalalynsyh234%20|%20Indonesian%20Developers&image=https://avatars.githubusercontent.com/u/33013375?v=4&backgroundColor=%23ecf0f1)
 [![GitHub followers](https://img.shields.io/github/followers/iqbaalynsyh234?logo=GitHub&style=for-the-badge)][github]
-[![Linkedin: Iqbal Alyansyah](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/setiawan007/)][linkedin]
+[![Linkedin: Iqbal Alyansyah](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/iqbal-alyansyah/)][linkedin]
 
 - 🔭 &ensp;I’m currently working on Full Stack Developer Javascript and php ❤️ projects
 - 🌱 &ensp;I’m currently learning React 

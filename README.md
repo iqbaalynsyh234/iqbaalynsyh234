@@ -1,53 +1,73 @@
-<h1 align='center' style="color: red;">Welcome to My Profile Outlander!👋</h1>
-![iqbalalynsyh234](https://cardivo.vercel.app/api?name=iqbal%20Alyansyahdescription=a.k.a.%20Iqbal007%20|%20Indonesian%20Developers&image=https://avatars.githubusercontent.com/u/33013375?v=4&backgroundColor=%23ecf0f1)
-<div align="center">
+<h1 align="center"> Hi <img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h1571l0uucg205k05egri.gif" width="32">, I'm ☑ Febrianto Bagus Setiawan!</a></img></h1>
 
-[![jasineri/gitartwork](gitartwork.svg)](https://github.com/iqbaalynsyh234/iqbaalynsyh234)
-</div>
-<div align="center">
-   
-   **Fullstack Developer | AI & ML| Gen AI |** <br> <br>
-   <a href="">[![visitor](https://visitor-badge.laobi.icu/badge?page_id=iqbaalynsyh234)](https://github.com/iqbaalynsyh234) [![committers.top badge](https://user-badge.committers.top/indonesia_private/iqbaalynsyh234.svg)](https://user-badge.committers.top/indonesia_private/iqbaalynsyh234)</a> 
-    
-   
-</div>
-<p align='center'> 
-   
-   <img src="https://github.com/iqbaalynsyh234/iqbaalynsyh234/assets/109880628/47a90027-6911-40a2-ac4a-501d9cd3eeee"/>
+![Setiawan007](https://cardivo.vercel.app/api?name=Febrianto%20Bagus%20Setiawan&description=a.k.a.%20Setiawan007%20|%20Indonesian%20Developers&image=https://avatars.githubusercontent.com/u/33013375?v=4&backgroundColor=%23ecf0f1)
+[![Youtube](https://img.shields.io/static/v1?label=Setiawan007&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube]
+[![Twitter Follow](https://img.shields.io/twitter/follow/IdSetiawan007?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge)][twitter]
+[![GitHub followers](https://img.shields.io/github/followers/Setiawan007?logo=GitHub&style=for-the-badge)][github]
+[![Linkedin: Febrianto Bagus Setiawan](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/setiawan007/)][linkedin]
+
+- 🔭 &ensp;I’m currently working on Flutter, Python & PHP ❤️ projects
+- 🌱 &ensp;I’m currently learning React 
+- 👯 &ensp;I’m looking to collaborate with other developers and designers
+- 📫 &ensp;How to reach me: [**Instagram**][instagram] or [**Email**][email] <br />
+<p align="">
+  <a href="mailto:febriantobagussetiawan@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email"></a>
+  <a href="https://instagram.com/setiawan.007" target="_blank"><img src="https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://www.linkedin.com/in/setiawan007/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://t.me/kiosgameku" target="_blank"><img src="https://img.shields.io/badge/-Telegram-2ca5e0?style=flat-square&logo=telegram" alt="Telegram"></a>
+  <a href="https://wa.me/6289681210290)](https://wa.me/6289681210290">
+    <img src="https://img.shields.io/badge/-wa-green?style=flat-square&logo=Whatsapp&logoColor=white">
+  </a>
 </p>
 
+### Connect With Me
 
-### highlight 🔦
-* 😎 My name is **iqbal Alyansyah**
-* 🌱 I’m currently learning Next JS and Reactjs
-* 👨‍💻 My portofolio avalible at: https://iqbal-porto-v2.vercel.app/
-* 📫 How to reach me iqbalalyansyah3@gmail.com
+[<img align="left" alt="Febrianto Bagus Setiawan | Website" width="28px" src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-website-logo-png-transparent-background-background-15.png" />][website]
+[<img align="left" alt="Febrianto Bagus Setiawan | YouTube" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/640px-YouTube_full-color_icon_%282017%29.svg.png" />][youtube]
+[<img align="left" alt="Febrianto Bagus Setiawan | Twitter" width="28px" src="https://help.twitter.com/content/dam/help-twitter/brand/logo.png" />][twitter]
+[<img align="left" alt="Febrianto Bagus Setiawan | Instagram" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" />][instagram]
+[<img align="left" alt="Febrianto Bagus Setiawan | TikTok" width="28px" src="https://i.pinimg.com/originals/0b/db/be/0bdbbef30f3d9833eb35f3befadd4b27.png" />][tiktok]
+[<img align="left" alt="Febrianto Bagus Setiawan | LinkedIn" width="28px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 
-### About Me 📄
-Hello outlander, my name is **iqbal alyansyah**, a passionate and ambitious  **fullstack developer** with a fervent dedication to the world of **Web Development**. Currently, I am a student at the esteemed **Universitas Bina Sarana Informatika**, where I'm in the midst of my exciting journey through the sixth semester of my **system Information** program. With the fire of ambition burning brightly in my heart, I venture forth into this mystical domain, where code weaves the **fabric of reality**, and websites are the portals to new adventures. The arcane arts of programming are my sword and shield, and I'm always ready to engage in battle with the most intricate challenges that the **digital wilderness** throws my way 🗺️⚔️🔥.
-
-### Tech Stack 🔥
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
-
-<h4>Databases</h4>
-<p><a href="https://www.mysql.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgressql.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="postgres" width="40" height="40"/> </a> <a href="https://www.firebase.google.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" alt="firebase" width="40" height="40"/> </a></p>
-
-### Stats ⚡
-![alvalen's GitHub stats](https://github-readme-stats.vercel.app/api?username=iqbaalynsyh234&hide=issues&show_icons=true&theme=transparent) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iqbaalynsyh234&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
-### Social 🌐
-<a href="https://www.instagram.com/iqbal_alynsyah/">
-   <img align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram-9B0FFF?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>&nbsp;&nbsp;
-<a href="https://discordapp.com/users/iqbal">
-   <img align="left" alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-</a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/iqbal-alyansyah/">
-   <img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<br /> <br/>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=Setiawan007&rank=-C,-B&column=8&theme=monokai&no-frame=true"/>
 </a>
-<br>
-<br>
 
-[![AlephZe](https://dcbadge.vercel.app/api/server/cZH93kM)](https://discord.gg/cZH93kM)
-[![Psatir](https://dcbadge.vercel.app/api/server/4nv3uEcfsz)](https://discord.gg/4nv3uEcfsz)
+
+<br />
+
+### Languages and Tools
+
+<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/><img src="https://img.icons8.com/color/48/000000/javascript.png"/><img src="https://img.icons8.com/color/48/000000/dart.png"/><img src="https://img.icons8.com/color/48/000000/flutter.png"/><img src="https://img.icons8.com/color/48/000000/python.png"/><img src="https://img.icons8.com/color/48/000000/html-5.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/><img src="https://img.icons8.com/color/48/000000/php.png"/><img src="https://img.icons8.com/color/48/000000/nodejs.png"/><img src="https://img.icons8.com/color/48/000000/firebase.png"/><img src="https://img.icons8.com/color/48/000000/google-cloud.png"/><img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/><img src="https://img.icons8.com/color/48/000000/figma--v1.png"/><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/><img src="https://img.icons8.com/color/48/000000/xcode.png"/>
+
+
+
+
+
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=Setiawan007&theme=light&show_icons=true)](https://github.com/Setiawan007)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Setiawan007&hide=TeX&layout=compact&theme=light)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Setiawan007)
+
+<a href="https://indogithubers.vercel.app/">
+   <img src="https://indogithubers-badge.vercel.app/badge?username=Setiawan007" alt="IndoGitHubers Badge">
+  </a>
+
+### Thanks For Visit
+<a href="https://sociabuzz.com/setiawan007/support" target="_blank"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="32px" alt="Sociabuzz"></a>
+---
+
+
+
+[website]: https://setiawan007.github.io/
+[twitter]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fidsetiawan007&screen_name=idsetiawan007
+[youtube]: https://www.youtube.com/channel/UCdxhhSG2v-2OMnK440MnfHw?sub_confirmation=1
+[linkedin]: https://linkedin.com/in/febrianto-bagus-setiawan-45271b18a/
+[github]: https://github.com/Setiawan007
+[instagram]: https://www.instagram.com/setiawan.007
+[email]: mailto:febriantobagussetiawan@gmail.com
+[tiktok]: https://tiktok.com/@setiawan.007
+

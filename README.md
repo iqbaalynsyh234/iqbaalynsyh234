@@ -1,21 +1,19 @@
-<h1 align="center"> Hi <img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h1571l0uucg205k05egri.gif" width="32">, I'm ☑ Febrianto Bagus Setiawan!</a></img></h1>
+<h1 align="center"> Hi <img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h1571l0uucg205k05egri.gif" width="32">, I'm ☑ Iqbal Alyansyah!</a></img></h1>
 
-![Setiawan007](https://cardivo.vercel.app/api?name=Febrianto%20Bagus%20Setiawan&description=a.k.a.%20Setiawan007%20|%20Indonesian%20Developers&image=https://avatars.githubusercontent.com/u/33013375?v=4&backgroundColor=%23ecf0f1)
-[![Youtube](https://img.shields.io/static/v1?label=Setiawan007&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube]
-[![Twitter Follow](https://img.shields.io/twitter/follow/IdSetiawan007?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge)][twitter]
-[![GitHub followers](https://img.shields.io/github/followers/Setiawan007?logo=GitHub&style=for-the-badge)][github]
-[![Linkedin: Febrianto Bagus Setiawan](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/setiawan007/)][linkedin]
+![iqbalalynsyh234](https://cardivo.vercel.app/api?name=Iqbal%20Alyansyah&description=a.k.a.%20iqbalalynsyh234%20|%20Indonesian%20Developers&image=https://avatars.githubusercontent.com/u/33013375?v=4&backgroundColor=%23ecf0f1)
+[![GitHub followers](https://img.shields.io/github/followers/iqbaalynsyh234?logo=GitHub&style=for-the-badge)][github]
+[![Linkedin: Iqbal Alyansyah](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/setiawan007/)][linkedin]
 
-- 🔭 &ensp;I’m currently working on Flutter, Python & PHP ❤️ projects
+- 🔭 &ensp;I’m currently working on Full Stack Developer Javascript and php ❤️ projects
 - 🌱 &ensp;I’m currently learning React 
 - 👯 &ensp;I’m looking to collaborate with other developers and designers
 - 📫 &ensp;How to reach me: [**Instagram**][instagram] or [**Email**][email] <br />
 <p align="">
-  <a href="mailto:febriantobagussetiawan@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email"></a>
-  <a href="https://instagram.com/setiawan.007" target="_blank"><img src="https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://www.linkedin.com/in/setiawan007/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:iqbalalyansyah3@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email"></a>
+  <a href="https://instagram.com/iqbal_alynsyh" target="_blank"><img src="https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://www.linkedin.com/in/iqbal-alyansyah/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://t.me/kiosgameku" target="_blank"><img src="https://img.shields.io/badge/-Telegram-2ca5e0?style=flat-square&logo=telegram" alt="Telegram"></a>
-  <a href="https://wa.me/6289681210290)](https://wa.me/6289681210290">
+  <a href="https://wa.me/6287716707509)](https://wa.me/6287716707509">
     <img src="https://img.shields.io/badge/-wa-green?style=flat-square&logo=Whatsapp&logoColor=white">
   </a>
 </p>
@@ -50,7 +48,7 @@
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=Setiawan007&theme=light&show_icons=true)](https://github.com/Setiawan007)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Setiawan007&hide=TeX&layout=compact&theme=light)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Setiawan007)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=iqbaalynsyh234)
 
 <a href="https://indogithubers.vercel.app/">
    <img src="https://indogithubers-badge.vercel.app/badge?username=Setiawan007" alt="IndoGitHubers Badge">
@@ -62,12 +60,9 @@
 
 
 
-[website]: https://setiawan007.github.io/
-[twitter]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fidsetiawan007&screen_name=idsetiawan007
-[youtube]: https://www.youtube.com/channel/UCdxhhSG2v-2OMnK440MnfHw?sub_confirmation=1
-[linkedin]: https://linkedin.com/in/febrianto-bagus-setiawan-45271b18a/
-[github]: https://github.com/Setiawan007
-[instagram]: https://www.instagram.com/setiawan.007
-[email]: mailto:febriantobagussetiawan@gmail.com
-[tiktok]: https://tiktok.com/@setiawan.007
+[website]: https://iqbal-porto-v2.vercel.app/
+[linkedin]: https://www.linkedin.com/in/iqbal-alyansyah-0a9236226/
+[github]: https://github.com/iqbaalynsyh234
+[instagram]: https://www.instagram.com/iqbal_alynsyh
+[email]: mailto:iqbalalyansyah3@gmail.com
 

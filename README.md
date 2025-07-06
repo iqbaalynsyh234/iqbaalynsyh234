@@ -1,7 +1,13 @@
 <h1 align="center">Hey Everyone 👋, I'm Iqbal Alyansyah</h1>
 
-<h3 align="center">A Full Stack web developer javascript and php web developer to 3 years experience to developer website </h3>
+### highlight 🔦
+* 😎 My name is **Iqbal Alyansyah**
+* 🌱 I’m currently learning Next JS and React Native
+* 👨‍💻 My portofolio avalible at: https://iqbal-porto-v2.vercel.app/
+* 📫 How to reach me iqbalalyansyah3@gmail.com
 
+### About Me 📄
+Hello outlander, my name is **iqbal alyansyah**, a passionate and ambitious junior **fullstack developer** with a fervent dedication to the world of **Web Development**. Currently, I am  a  🗺️⚔️🔥.
 <p align="center">
   <a href="https://github.com/iqbaalynsyh234">
     <img src="https://img.shields.io/github/followers/iqbaalynsyh234?label=Follow&style=social" />

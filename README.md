@@ -65,10 +65,8 @@ Feel free to reach out to me if you want to discuss tech, development, or just h
 🤖 GitHub Stats 🤖
 </h2>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/iqbaalynsyh234/GithubStats/master/generated/overview.svg#gh-dark-mode-only" alt="Overview" />
-  <img src="https://raw.githubusercontent.com/iqbaalynsyh234/GithubStats/master/generated/languages.svg#gh-dark-mode-only" alt="Languages" />
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iqbaalynsyh234&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iqbaalynsyh234&layout=compact&theme=dark)
 
 <h2 align="center">
 📈 GitHub Activity Graph 📈

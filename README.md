@@ -1,69 +1,82 @@
-<h1 align="center">Hey Everyone 👋, I'm Iqbal Alyansyah</h1>
+<!--- # Hi, I'm Iqbal Alyansyah! 👋 -->
 
-### highlight 🔦
-* 😎 My name is **Iqbal Alyansyah**
-* 🌱 I’m currently learning Next JS and React Native
-* 👨‍💻 My portofolio avalible at: https://iqbal-porto-v2.vercel.app/
-* 📫 How to reach me iqbalalyansyah3@gmail.com
+<h1 align="center">
+    <p>
+        <img align="center" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+    </p>
+    <p>
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ilham+Ramadhan!;+a+Fullstack+Web+Developer" />
+    </p>
+</h1>
 
-### About Me 📄
-Hello outlander, my name is **iqbal alyansyah**, a passionate and ambitious junior **fullstack developer** with a fervent dedication to the world of **Web Development**. Currently, I am  a  🗺️⚔️🔥.
-<p align="center">
-  <a href="https://github.com/iqbaalynsyh234">
-    <img src="https://img.shields.io/github/followers/iqbaalynsyh234?label=Follow&style=social" />
-  </a>
-  <a href="https://www.linkedin.com/in/iqbal-alyansyah-0a9236226/">
-    <img src="https://img.shields.io/badge/LinkedIn/iqbal-alyansyah-blue?logo=linkedin&style=flat-square" />
-  </a>
-</p>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+## 🌟 Fullstack Web and Mobile Developer | Tech Enthusiast 🚀
+![](https://komarev.com/ghpvc/?username=ilramdhan&style=flat-square)
+[![wakatime](https://wakatime.com/badge/user/95544809-9c49-47ee-89fd-41985f53ae0d.svg)](https://wakatime.com/@95544809-9c49-47ee-89fd-41985f53ae0d)
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=iqbaalynsyh234&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+<!---
+![Github Followers](https://img.shields.io/github/followers/ilramdhan?label=Followers&logo=GitHub&style=for-the-badge)
+![Twitter Followers](https://img.shields.io/twitter/follow/ilramadhan_&?label=Twitter&logo=twitter&style=for-the-badge&color=blue)
+-->
 
-- 👨‍💻 All of my projects are available at [https://github.com/iqbaalynsyh234](https://github.com/iqbaalynsyh234)  
-- 💬 Ask me about **Web developer full stack dev**  
-- 📫 How to reach me **iqbalalyansyah3@gmail.com**
 
----
+I'm a passionate Web and Mobile Developer based in Indonesia. I love crafting digital solutions that make a difference. Here's a bit about me:
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/iqbal-alyansyah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://instagram.com/iqbal_alynsyh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-</p>
+### 👨‍💻 Professional Background
 
----
+- Fullstack Developer at Yellow fit kitchen ( 2025 - present)
+
+### 💡 What I'm Up To
+
+- Learning and mastering Laravel, PHP, Livewire, Javascript, nextjs, HTML, CSS, Kotlin, Figma, Git, MySql, Oracle, JSON, NetBeans, Visual Studio Code, PhpStorm, Adobe Illustrator, Adobe Photoshop, Adobe Premiere Pro, Blender, Corel Draw, JetBrains, jenskin, docker
+- Exploring the limitless possibilities of web and mobile development
+
 <h2 align="center">
   🌟 Skills 🌟
 </h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,php,html,css,bootstrap,tailwind,js,nodejs,jquery,kotlin,ts,react,py," />
+  <img src="https://skillicons.dev/icons?i=laravel,php,html,css,bootstrap,tailwind,js,nodejs,jquery,kotlin,ts,react,py,nextjs" />
   <img src="https://skillicons.dev/icons?i=idea,phpstorm,webstorm,pycharm,figma,androidstudio,git,github,mysql," />
 </p>
 
+<h2 align="center">
+  🤝 Connect with Me 🤝
+</h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iqbaalynsyh234&show_icons=true&locale=en&layout=compact&theme=vue&hide_border=true" alt="Top Langs" /></p>
+<p align="center">Let's stay connected! You can find me on various platforms:</p>
+<p align="center"><sup><sub>Don`t forget hold ctrl then click :)</sub></sup></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iqbaalynsyh234&show_icons=true&locale=en&theme=vue&hide_border=true" alt="GitHub Stats" /></p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/iqbal-alyansyah" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" width="40" height="40" alt="LinkedIn" /></a>
+  <a href="https://github.com/iqbaalynsyh234" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg" width="40" height="40" alt="GitHub" /></a>
+</p>
+
+### 🌐 Get in Touch
+<sup><sub>Don`t forget hold ctrl then click :)</sub></sup>
+
+- Email: iqbalalyansyah3@gmail.com
+
+Feel free to reach out to me if you want to discuss tech, development, or just have a chat. Let's create something amazing together! 😄
 
 ---
-### 🔥 GitHub Contribution Streak
+<h2 align="center">
+🤖 GitHub Stats 🤖
+</h2>
 
-![GitHub Streak Badge](https://img.shields.io/badge/GitHub%20Streak-Active-brightgreen?logo=github&style=for-the-badge)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/iqbaalynsyh234/GithubStats/master/generated/overview.svg#gh-dark-mode-only" alt="Overview" />
+  <img src="https://raw.githubusercontent.com/iqbaalynsyh234/GithubStats/master/generated/languages.svg#gh-dark-mode-only" alt="Languages" />
+</div>
 
----
+<h2 align="center">
+📈 GitHub Activity Graph 📈
+</h2>
 
----
-
-### 👨‍💼 About Me & 🤝 Open to Collaborations
-
-🎤 Available for **Guest Sessions / Webinars**  
-🤝 Open to **Project Collaborations / YouTube Collabs**  
-💼 Offering **Developer website and console website?**  
-📧 Let’s chat: [iqbalalyansyah3@gmail.com](mailto:iqbalalyansyah3@gmail.com)
-
-> *"Helping people crack DevOps with real-world knowledge. Let’s build and automate the future, one pipeline at a time!"*
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ilramdhan&theme=high-contrast" alt="GitHub Activity Graph" />
+  </a>
+    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
+</p>

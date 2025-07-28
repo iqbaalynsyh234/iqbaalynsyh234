@@ -73,7 +73,7 @@ Feel free to reach out to me if you want to discuss tech, development, or just h
 </h2>
 
 <p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <a href="https://github.com/iqbaalynsyh234/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=iqbaalynsyh234&theme=high-contrast" alt="GitHub Activity Graph" />
   </a>
     <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />

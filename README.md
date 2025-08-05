@@ -47,13 +47,6 @@ I'm a passionate Web and Mobile Developer based in Indonesia. I love crafting di
 <p align="center">Let's stay connected! You can find me on various platforms:</p>
 <p align="center"><sup><sub>Don`t forget hold ctrl then click :)</sub></sup></p>
 
-<p align="left">
-<a href="https://github.com/iqbaalynsyh234">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=iqbaalynsyh234&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iqbaalynsyh234&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-
 ### 🌐 Get in Touch
 <sup><sub>Don`t forget hold ctrl then click :)</sub></sup>
 
@@ -66,8 +59,12 @@ Feel free to reach out to me if you want to discuss tech, development, or just h
 🤖 GitHub Stats 🤖
 </h2>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iqbaalynsyh234&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iqbaalynsyh234&layout=compact&theme=dark)
+<p align="center">
+<a href="https://github.com/iqbaalynsyh234">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=iqbaalynsyh234&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iqbaalynsyh234&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 <h2 align="center">
 📈 GitHub Activity Graph 📈

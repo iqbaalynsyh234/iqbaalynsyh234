@@ -47,10 +47,11 @@ I'm a passionate Web and Mobile Developer based in Indonesia. I love crafting di
 <p align="center">Let's stay connected! You can find me on various platforms:</p>
 <p align="center"><sup><sub>Don`t forget hold ctrl then click :)</sub></sup></p>
 
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/iqbal-alyansyah" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" width="40" height="40" alt="LinkedIn" /></a>
-  <a href="https://github.com/iqbaalynsyh234" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg" width="40" height="40" alt="GitHub" /></a>
+<p align="left">
+<a href="https://github.com/iqbaalynsyh234">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=iqbaalynsyh234&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iqbaalynsyh234&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </p>
 
 ### 🌐 Get in Touch
